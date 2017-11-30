@@ -1,7 +1,6 @@
 ![OXCAM](VMLogo-25Nov17.png)
 
-### Welcome to the 2017 Varsity Cross Country
-
+# Welcome to the 2017 Varsity Cross Country Match
 
 ## Live Results [here](https://dev-data.opentrack.run/x/2017/GBR/varsityxc/event/)
 
