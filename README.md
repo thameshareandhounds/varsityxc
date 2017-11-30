@@ -6,3 +6,6 @@
 ## Live Results [here](https://dev-data.opentrack.run/x/2017/GBR/varsityxc/event/)
 
 ## Historic results [here](/xcvm_results.json)
+
+## Programme [here](/2017-VMProgramme-02Dec17.pdf)
+
