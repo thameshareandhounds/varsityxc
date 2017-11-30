@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+### Welcome to the 2017 Varsity Cross Country
 
-You can use the [editor on GitHub](https://github.com/thameshareandhounds/varsityxc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Live Results [here](https://dev-data.opentrack.run/x/2017/GBR/varsityxc/event/)
 
 ## Historic results [here](/xcvm_results.json)
+
+
 
 ### Markdown
 
