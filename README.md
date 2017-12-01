@@ -20,9 +20,18 @@ ORDER OF EVENTS
 
 ## [Programme](/2017-VMProgramme-02Dec17.pdf)
 
+All event details including start-lists, a form guide and a brief history of the event.
+
 ## [Course Map including possible splits locations](/VMcourse_splits.png)
+
+Details of the Ladies' and Gentlemen's routes displaying the locations where we will attempt to take splits and give live updates of the state of the matches as they happen.
 
 ## [Live Results](https://data.opentrack.run/x/2017/GBR/varsityxc/event/)
 
+The OpenTrack website where the splits and final results will be displayed as the athletes cross the line.
+
 ## [Historic results](/xcvm_results.json)
+
+One for the geeks, a json format of the results of all the previous 126 Varsity Matches.
+
 
