@@ -20,7 +20,7 @@ ORDER OF EVENTS
 
 ## [Programme](/2017-VMProgramme-02Dec17.pdf)
 
-All event details including start-lists, a form guide and a brief history of the event all from our resident archivist and Thames club secretary Simon Molden.
+All event details including start-lists, a form guide and a brief history of the event all from our resident archivist and Thames club secretary, Simon Molden.
 
 ## [Course Map including possible splits locations](/VMcourse_splits.png)
 
