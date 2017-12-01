@@ -2,8 +2,8 @@
 
 # Welcome to the 2017 Varsity Cross Country Match
 
-From Thames Hare and Hounds’ Headquarters,
-Memorial Playing Fields, Roehampton Vale
+From [Thames Hare and Hounds’ Headquarters](https://www.google.co.uk/maps/place/Richard+Evans+Memorial+Playing+Fields,+Roehampton+Vale,+Wimbledon,+London+SW15+3PQ/@51.436469,-0.2617758,2165m/data=!3m1!1e3!4m5!3m4!1s0x48760ec95afaa43f:0xfc203bb538bd992a!8m2!3d51.436469!4d-0.2530211),
+Memorial Playing Fields, Roehampton Vale, SW15 3PQ
 on Saturday, 2nd December
 
 
