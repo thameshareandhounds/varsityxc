@@ -18,9 +18,11 @@ ORDER OF EVENTS
 2:45 p.m. 127th Gentlemen’s Race 7½ miles
 (Eight-a-side, six-to-score)
 
+## Programme [here](/2017-VMProgramme-02Dec17.pdf)
+
+## Course Map including splits points [here](/VMcourse_splits.png)
+
 ## Live Results [here](https://data.opentrack.run/x/2017/GBR/varsityxc/event/)
 
 ## Historic results [here](/xcvm_results.json)
-
-## Programme [here](/2017-VMProgramme-02Dec17.pdf)
 
