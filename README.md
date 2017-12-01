@@ -20,7 +20,7 @@ ORDER OF EVENTS
 
 ## [Programme](/2017-VMProgramme-02Dec17.pdf)
 
-All event details including start-lists, a form guide and a brief history of the event.
+All event details including start-lists, a form guide and a brief history of the event all from our resident archivist and Thames club secretary Simon Molden.
 
 ## [Course Map including possible splits locations](/VMcourse_splits.png)
 
@@ -32,6 +32,6 @@ The OpenTrack website where the splits and final results will be displayed as th
 
 ## [Historic results](/xcvm_results.json)
 
-One for the geeks, a json format of the results of all the previous 126 Varsity Matches.
+One for the geeks, a json format of the results of all the previous 126 Varsity Matches. This data was compiled as a labour of love by Simon Molden.
 
 
