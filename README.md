@@ -34,7 +34,7 @@ The OpenTrack website where the splits and final results will be displayed as th
 
 Details of the results of every gentlemen's race (since 1880) and ladies' races (since 1976), courtesy of Simon Molden.
 
-## [Twitter](/https://twitter.com/oxfcamxc?lang=en)
+## [Twitter](https://twitter.com/oxfcamxc?lang=en)
 
 Further details and news will be posted on the VarsityXC Twitter feed.
 
