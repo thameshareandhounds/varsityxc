@@ -1,4 +1,4 @@
-<p align="center">![OXCAM](VMLogo-Circle-20Nov18.png)
+![VM Logo](VMLogo-Circle-20Nov18.png)
 
 # Welcome to the 2018 Varsity Cross-Country Races
 
