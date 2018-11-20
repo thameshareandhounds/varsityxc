@@ -1,4 +1,4 @@
-![OXCAM](VMLogo-25Nov17.png)
+![OXCAM](VMLogo-Circle-20Nov18.png)
 
 # Welcome to the 2017 Varsity Cross Country Match
 
