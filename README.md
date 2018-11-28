@@ -18,9 +18,9 @@ on Saturday, 1st December
 2:45 p.m. 128th Gentlemen’s Race (7½ miles)
 (Eight-a-side, six-to-score)
 
-## [Programme](/2017-VMProgramme-02Dec17.pdf)
+## [Programme](/2018-VMProgramme-01Dec18.pdf)
 
-The 2018 programme will be available shortly. It will contain all event details including start-lists, a form guide and a brief history of the event all from our resident archivist and Thames H&H Secretary, Simon Molden. For now, you can still view the 2017 version.
+The 2018 programme is now available. It contains event details including start-lists, a race preiew and a brief history of the event all from our resident archivist and Thames H&H Secretary, Simon Molden.
 
 ## [Course Map including possible splits locations](/VMCourse-SplitsLocations-20Nov18.png)
 
