@@ -32,7 +32,7 @@ The OpenTrack website where the splits and final results will be displayed as th
 
 ## [Historic results](/VarsityXC-HistoricResults.pdf)
 
-Details of the results of every gentlemen's race (since 1880) and ladies' races (since 1976), courtesy of Simon Molden.
+Details of the results of every gentlemen's race (since 1880) and ladies' races (since 1976), courtesy of Simon Molden. Further detail on the race history can be found on the [Thames Hare and Hounds' website.] (http://www.thameshareandhounds.org.uk/varsity-match/)
 
 ## [Twitter](https://twitter.com/oxfcamxc?lang=en)
 
