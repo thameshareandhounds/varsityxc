@@ -16,17 +16,17 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ on Saturday, 7th December
 2:45 p.m. 129th Gentlemen’s Race (7½ miles)
 (Eight-a-side, six-to-score)
 
-## [Programme](/2018-VMProgramme-01Dec18.pdf)
+## [Programme](/2019-VMProgramme-07Dec18.pdf)
 
-The 2018 programme can be accessed from the link. It contains event details including start-lists, a race preiew and a brief history of the event all from our resident archivist and Thames H&H Secretary, Simon Molden.
+The 2019 programme can be accessed from the link. It contains event details including start-lists, a race preiew and a statistical history of the event.
 
 ## [Course Map including possible splits locations](/VMCourse-SplitsLocations-20Nov18.png)
 
 Details of the ladies' and gentlemen's courses displaying the locations where we will attempt to take splits and give live updates of the state of the matches as they happen. In the ladies' race, the splits will be in at point D (c. 2.5 miles) and point P (c. 3.75 miles). In the gentlemen's race, the splits will be at point S (c. 3.75 miles), point D (c. 6.25 miles) and point P (c. 7.25 miles).
 
-## [Live Results](https://data.opentrack.run/x/2018/GBR/varsityxc/)
+## [Live Results](https://data.opentrack.run/x/2019/GBR/varsityxc/)
 
-The OpenTrack website where the splits and final results will be displayed as the athletes cross the line. Currently, the 2018 result can be accessed at the above link.
+The OpenTrack website where the splits and final results will be displayed as the athletes cross the line.
 
 ## [Historic results](/VarsityXC-HistoricResults.pdf)
 
