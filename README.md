@@ -3,7 +3,7 @@
 # Welcome to the 2020 Varsity Cross-Country Races
 
 From [Thames Hare and Hounds’ Headquarters](https://www.google.co.uk/maps/place/Richard+Evans+Memorial+Playing+Fields,+Roehampton+Vale,+Wimbledon,+London+SW15+3PQ/@51.436469,-0.2617758,2165m/data=!3m1!1e3!4m5!3m4!1s0x48760ec95afaa43f:0xfc203bb538bd992a!8m2!3d51.436469!4d-0.2530211),
-Memorial Playing Fields, Roehampton Vale, SW15 3PQ on Saturday, 5th December
+Memorial Playing Fields, Roehampton Vale, SW15 3PQ on Saturday, 5th December 2020.
 
 ## Order of Events
 
@@ -18,7 +18,7 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ on Saturday, 5th December
 
 ## [Programme](/2019-VMProgramme-07Dec19.pdf)
 
-The programme for the 2020 races will be available in the week before the race. It will contain event details including start-lists, a race preiew and a statistical history of the event. Currently, the 2019 can be accessed.
+The programme for the 2020 races will be available in the week before the race. It will contain event details including start-lists, a race preiew and a statistical history of the event. Currently, the 2019 can be accessed at the link above.
 
 ## [Course Map including possible splits locations](/VMCourse-SplitsLocations-20Nov18.png)
 
