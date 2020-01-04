@@ -1,24 +1,24 @@
 ![VM Logo](VMLogo-Banner-20Nov18.png)
 
-# Welcome to the 2019 Varsity Cross-Country Races
+# Welcome to the 2020 Varsity Cross-Country Races
 
 From [Thames Hare and Hounds’ Headquarters](https://www.google.co.uk/maps/place/Richard+Evans+Memorial+Playing+Fields,+Roehampton+Vale,+Wimbledon,+London+SW15+3PQ/@51.436469,-0.2617758,2165m/data=!3m1!1e3!4m5!3m4!1s0x48760ec95afaa43f:0xfc203bb538bd992a!8m2!3d51.436469!4d-0.2530211),
-Memorial Playing Fields, Roehampton Vale, SW15 3PQ on Saturday, 7th December
+Memorial Playing Fields, Roehampton Vale, SW15 3PQ on Saturday, 5th December
 
 ## Order of Events
 
-1:00 p.m. 28th Old Blues’ Race (4 miles)
+1:00 p.m. 29th Old Blues’ Race (4 miles)
 (Mob Match – all alumni welcome)
 
-2:00 p.m. 44th Ladies’ Race (4 miles)
+2:00 p.m. 45th Ladies’ Race (4 miles)
 (Eight-a-side, six-to-score)
 
-2:45 p.m. 129th Gentlemen’s Race (7½ miles)
+2:45 p.m. 130th Gentlemen’s Race (7½ miles)
 (Eight-a-side, six-to-score)
 
 ## [Programme](/2019-VMProgramme-07Dec19.pdf)
 
-The 2019 programme can be accessed from the link. It contains event details including start-lists, a race preiew and a statistical history of the event.
+The programme for the 2020 races will be available in the week before the race. It will contain event details including start-lists, a race preiew and a statistical history of the event. Currently, the 2019 can be accessed.
 
 ## [Course Map including possible splits locations](/VMCourse-SplitsLocations-20Nov18.png)
 
@@ -26,7 +26,7 @@ Details of the ladies' and gentlemen's courses displaying the locations where we
 
 ## [Live Results](https://data.opentrack.run/x/2019/GBR/varsityxc/)
 
-The OpenTrack website where the splits and final results will be displayed as the athletes cross the line.
+The OpenTrack website where the splits and final results will be displayed as the athletes cross the line. The 2019 result is available at the link above.
 
 ## [Historic results](/VarsityXC-HistoricResults.pdf)
 
