@@ -2,13 +2,14 @@
 
 # Welcome to the 2020 Varsity Cross-Country Races
 
+Due to the Covid-19 pandemic, the 2020 Varsity Cross-Country Race will not take place on its scheduled date of Saturday 5th December 2020. Provisionally, the event will take place on Saturday 20th March 2021.
+
 From [Thames Hare and Hounds’ Headquarters](https://www.google.co.uk/maps/place/Richard+Evans+Memorial+Playing+Fields,+Roehampton+Vale,+Wimbledon,+London+SW15+3PQ/@51.436469,-0.2617758,2165m/data=!3m1!1e3!4m5!3m4!1s0x48760ec95afaa43f:0xfc203bb538bd992a!8m2!3d51.436469!4d-0.2530211),
-Memorial Playing Fields, Roehampton Vale, SW15 3PQ on Saturday, 5th December 2020.
+Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 
 ## Order of Events
 
-1:00 p.m. 29th Old Blues’ Race (4 miles)
-(Mob Match – all alumni welcome)
+The Blues races will take place as follows:
 
 2:00 p.m. 45th Ladies’ Race (4 miles)
 (Eight-a-side, six-to-score)
