@@ -22,9 +22,13 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 
 The programme for the 2021 races will be available on Friday 3rd December. It will contain event details including start-lists, a race preiew and a statistical history of the event. Currently, the 2019 can be accessed at the link above.
 
-## [Course Map](/VMCourse-SplitsLocations-20Nov18.png)
+## [Course Map](/TH%26H-VarsityCourse-2000-date.png)
 
-A map of the ladies' and gentlemen's courses can be found at the above link.
+A map of the ladies' and gentlemen's courses can be found at the above link. 
+
+The Old Blues' and ladies' course route is: Start - A – B – C – D – E – J – K – L – Finish.
+
+The Gentlemen's course route is: Start – A – B – C – D – E – F – G – H – I – D – E – J – K – L – Finish.
 
 ## [Results](https://data.opentrack.run/en-gb/x/2021/GBR/varsityxc/)
 
