@@ -18,9 +18,9 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 2:45 p.m. 130th Gentlemen’s Race (7½ miles)
 (Eight-a-side, six-to-score)
 
-## [Programme](/2019-VMProgramme-07Dec19.pdf)
+## [Programme](/2021-VMProgramme-04Dec21.pdf)
 
-The programme for the 2021 races will be available on Friday 3rd December. It will contain event details including start-lists, a race preiew and a statistical history of the event. Currently, the 2019 can be accessed at the link above.
+The programme for the 2021 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event.
 
 ## [Course Map](/TH%26H-VarsityCourse-2000-date.png)
 
