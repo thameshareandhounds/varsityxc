@@ -9,7 +9,7 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 
 ## Order of Events
 
-1:00 p.m. 30th Old Blues' Race (4 miles)
+12:30 p.m. 30th Old Blues' Race (4 miles)
 (All alumni welcome)
 
 2:00 p.m. 46th Ladies’ Race (4 miles)
