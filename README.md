@@ -12,15 +12,19 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 12:30 p.m. 30th Old Blues' Race (4 miles)
 (All alumni welcome)
 
+1:15 p.m. Thames Hare and Hounds' World Athletics Heritage Plaque unveiling
+
 2:00 p.m. 46th Ladies’ Race (4 miles)
 (Eight-a-side, six-to-score)
 
 2:45 p.m. 131st Gentlemen’s Race (7½ miles)
 (Eight-a-side, six-to-score)
 
-## [Programme](/2021-VMProgramme-04Dec21.pdf)
+3.45 p.m. Brasher-Chataway-Bannister Bridge opening ceremony
 
-The 2022 programme will be available in the week preceding the event. The programme for the 2021 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event.
+## [Programme](/2022-VXCProgramme-Electronic Version-03Dec22.pdf)
+
+The programme for the 2022 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event.
 
 ## [Course Map](/TH%26H-VarsityCourse-2000-date.png)
 
