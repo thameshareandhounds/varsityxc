@@ -34,9 +34,9 @@ The Old Blues' and ladies' course route is: Start - A – B – C – D – E �
 
 The gentlemen's course route is: Start – A – B – C – D – E – F – G – H – I – D – E – J – K – L – Finish.
 
-## [Results](https://data.opentrack.run/en-gb/x/2021/GBR/varsityxc/)
+## [Results](https://data.opentrack.run/en-gb/x/2022/GBR/varsityxc/)
 
-The results will be available on the OpenTrack website shortly after the conclusion of the races. The 2021 results are available at the link above.
+The results will be available on the OpenTrack website (see link above) shortly after the conclusion of the races.
 
 ## [Historic results](/VarsityXC-HistoricResults.pdf)
 
