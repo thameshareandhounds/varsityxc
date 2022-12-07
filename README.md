@@ -22,7 +22,7 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 
 3.45 p.m. Brasher-Chataway-Bannister Bridge opening ceremony
 
-## [Programme](/2022-VXCProgramme-Electronic Version-03Dec22.pdf)
+## [Programme](/2022-VXCProgramme-Electronic%20Version-03Dec22.pdf)
 
 The programme for the 2022 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event.
 
