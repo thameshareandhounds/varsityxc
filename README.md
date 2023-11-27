@@ -22,13 +22,13 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 
 The programme for the 2022 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event. The 2023 programme will be available in the week before the race.
 
-## [Course Map](/TH%26H-VarsityCourse-2000-date.png)
+## [Course Map](/TH&H-VarsityCourse-2023-date.png)
 
 A map of the ladies' and gentlemen's courses can be found at the above link. 
 
-The Old Blues' and ladies' course route is: Start - A – B – C – D – E – J – K – L – Finish.
+The Old Blues' and ladies' course route is: Start – A – B – C – D – E – F – G – H – I – J – K – L – M – V – W – X – Z – Z1 – Z2 –  Finish.
 
-The gentlemen's course route is: Start – A – B – C – D – E – F – G – H – I – D – E – J – K – L – Finish.
+The gentlemen's course route is: Start – A – B – C – D – E – F – G – H – I – J – K – L – M – N – O – P – Q – R – S – T – U – H – I – J – K – L – M – V – W – X – Z – Z1 – Z2 – Finish.
 
 ## [Results](https://data.opentrack.run/en-gb/x/2022/GBR/varsityxc/)
 
