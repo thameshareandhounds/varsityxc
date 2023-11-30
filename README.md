@@ -18,7 +18,7 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 2:45 p.m. 132nd Gentlemen’s Race (7½ miles)
 (Eight-a-side, six-to-score)
 
-## [Programme](/2023-VXCProgramme-Electronic%20Version-03Dec23.pdf)
+## [Programme](/2023-VXCProgramme-02Dec23.pdf)
 
 The programme for the 2023 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event.
 
