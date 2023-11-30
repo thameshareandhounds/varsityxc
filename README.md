@@ -30,7 +30,7 @@ The Old Blues' and ladies' course route is: Start – A – B – C – D – E 
 
 The gentlemen's course route is: Start – A – B – C – D – E – F – G – H – I – J – K – L – M – N – O – P – Q – R – S – T – U – H – I – J – K – L – M – V – W – X – Z – Z1 – Z2 – Finish.
 
-The locations of each of the points on the course can be found [here](/TH&H-VXC Courses 2023 onwards-W3W Points.csv)
+The locations of each of the points on the course can be found [here](/TH&H-VXC%20Courses%202023%20onwards-W3W Points.csv).
 
 ## [Results](https://data.opentrack.run/en-gb/x/2022/GBR/varsityxc/)
 
