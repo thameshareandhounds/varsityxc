@@ -32,7 +32,7 @@ The gentlemen's course route is: Start – A – B – C – D – E – F – G
 
 The [What3Words](https://what3words.com) locations of each of the points on the course can be found [here](/TH%26H-VXC%20Courses%202023%20onwards-W3W%20Points.csv).
 
-## [Results](https://data.opentrack.run/en-gb/x/2022/GBR/varsityxc/)
+## [Results](https://data.opentrack.run/en-gb/x/2023/GBR/varsityxc/)
 
 The results will be available on the OpenTrack website (see link above) shortly after the conclusion of the races.
 
