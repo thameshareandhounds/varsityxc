@@ -30,7 +30,7 @@ The Old Blues' and ladies' course route is: Start – A – B – C – D – E 
 
 The gentlemen's course route is: Start – A – B – C – D – E – F – G – H – I – J – K – L – M – N – O – P – Q – R – S – T – U – H – I – J – K – L – M – V – W – X – Z – Z1 – Z2 – Finish.
 
-The [What3Words](https://what3words.com) locations of each of the points on the course can be found [here](https://docs.google.com/spreadsheets/d/1vcNe2MVnPRWLKhEifFHgtx7XKkDph3KSiNi6QXKEPp0/edit?usp=sharing).
+The [What3Words](https://what3words.com) locations of each of the points on the course can be found [here](https://docs.google.com/spreadsheets/d/1auEuwX6t0v_xlVnnuh8sYPgC6npslrFt/edit?usp=sharing&ouid=113317809923960760232&rtpof=true&sd=true).
 
 ## [Results](https://data.opentrack.run/en-gb/x/2024/GBR/varsityxc/)
 
