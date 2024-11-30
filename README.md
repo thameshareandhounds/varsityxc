@@ -34,7 +34,7 @@ The [What3Words](https://what3words.com) locations of each of the points on the 
 
 ## [Results](https://data.opentrack.run/en-gb/x/2024/GBR/varsityxc/)
 
-The results will be available on the OpenTrack website shortly after the conclusion of the races. The above link provides the result of the 2023 races.
+The results will be available on the OpenTrack website (link above) shortly after the conclusion of the races.
 
 ## [Historic results](/VarsityXC-HistoricResults.pdf)
 
