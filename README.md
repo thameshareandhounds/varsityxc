@@ -22,7 +22,7 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 
 The programme for the 2023 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event. The 2024 programme will be added in early December.
 
-## [Course Map](/TH&H-VarsityCourse-2023-date.png)
+## [Course Map](/TH&H-VarsityCourse-2024-date.png)
 
 A map of the ladies' and gentlemen's courses can be found at the above link. 
 
