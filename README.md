@@ -18,9 +18,9 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 2:45 p.m. 133rd Gentlemen’s Race (7½ miles)
 (Eight-a-side, six-to-score)
 
-## [Programme](/2023-VXCProgramme-02Dec23.pdf)
+## [Programme](/2024-VXCProgramme-07Dec24.pdf)
 
-The programme for the 2023 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event. The 2024 programme will be added in early December.
+The programme for the 2024 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event.
 
 ## [Course Map](/TH&H-VarsityCourse-2024-date.png)
 
