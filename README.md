@@ -1,26 +1,26 @@
 ![VM Logo](VMLogo-Banner-20Nov18.png)
 
-# Welcome to the 2024 Varsity Cross-Country Races
+# Welcome to the 2025 Varsity Cross-Country Races
 
-The event will take place on Saturday 7th December 2024.
+The event will take place on Saturday 6th December 2025.
 
 From [Thames Hare and Hounds’ Headquarters](https://www.google.co.uk/maps/place/Richard+Evans+Memorial+Playing+Fields,+Roehampton+Vale,+Wimbledon,+London+SW15+3PQ/@51.436469,-0.2617758,2165m/data=!3m1!1e3!4m5!3m4!1s0x48760ec95afaa43f:0xfc203bb538bd992a!8m2!3d51.436469!4d-0.2530211),
 Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 
 ## Order of Events
 
-1:00 p.m. 32nd Old Blues' Race (4 miles)
+12:30 p.m. 33rd Old Blues' Race (4 miles)
 (All alumni welcome)
 
-2:00 p.m. 48th Ladies’ Race (4 miles)
+2:00 p.m. 134th Gentlemen's Race (7½ miles)
 (Eight-a-side, six-to-score)
 
-2:45 p.m. 133rd Gentlemen’s Race (7½ miles)
+3.00 p.m. 49th Ladies' Race (4 miles)
 (Eight-a-side, six-to-score)
 
 ## [Programme](/2024-VXCProgramme-07Dec24.pdf)
 
-The programme for the 2024 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event.
+The programme for the 2024 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event. The 2025 programme will be added in the week before the race.
 
 ## [Course Map](/TH&H-VarsityCourse-2024-date.png)
 
@@ -34,7 +34,7 @@ The [What3Words](https://what3words.com) locations of each of the points on the 
 
 ## [Results](https://data.opentrack.run/en-gb/x/2024/GBR/varsityxc/)
 
-The results will be available on the OpenTrack website (link above) shortly after the conclusion of the races.
+The results will be available on the OpenTrack website shortly after the conclusion of the races. The results of the 2024 races can be found at the link above.
 
 ## [Historic results](/VarsityXC-HistoricResults.pdf)
 
