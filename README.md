@@ -36,9 +36,9 @@ The [What3Words](https://what3words.com) locations of each of the points on the 
 
 The results will be available on the OpenTrack website shortly after the conclusion of the races. The results of the 2024 races can be found at the link above.
 
-## [Historic results](/VarsityXC-HistoricResults.pdf)
+## [Historic results](/University Cross-Country Race-Complete Results Record-1880-2024.pdf)
 
-Details of the results of every gentlemen's race (since 1880) and ladies' races (since 1976), courtesy of Simon Molden. Further detail on the race history can be found on the [Thames Hare and Hounds' website](http://www.thameshareandhounds.org.uk/varsity-match/).
+Details of the results of every gentlemen's race (since 1880) and ladies' races (since 1975), courtesy of Simon Molden. Further detail on the race history can be found on the [Thames Hare and Hounds' website](http://www.thameshareandhounds.org.uk/varsity-match/).
 
 ## [Twitter](https://twitter.com/oxfcamxc?lang=en)
 
