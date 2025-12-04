@@ -18,7 +18,7 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 3.00 p.m. 49th Ladies' Race (4 miles)
 (Eight-a-side, six-to-score)
 
-## [Programme](/2025-VXCProgramme-06Dec25.pdf)
+## [Programme](/2025-VXCProgramme-Electronic Version-06Dec25.pdf)
 
 The programme for the 2025 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event.
 
@@ -32,9 +32,9 @@ The gentlemen's course route is: Start – A – B – C – D – E – F – G
 
 The [What3Words](https://what3words.com) locations of each of the points on the course can be found [here](https://docs.google.com/spreadsheets/d/1auEuwX6t0v_xlVnnuh8sYPgC6npslrFt/edit?usp=sharing&ouid=113317809923960760232&rtpof=true&sd=true).
 
-## [Results](https://data.opentrack.run/en-gb/x/2024/GBR/varsityxc/)
+## [Results](https://data.opentrack.run/en-gb/x/2025/GBR/varsityxc/)
 
-The results will be available on the OpenTrack website shortly after the conclusion of the races. The results of the 2024 races can be found at the link above.
+The results will be available on the OpenTrack website shortly after the conclusion of the races at the link above.
 
 ## [Historic results](/University Cross-Country Race-Complete Results Record-1880-2024.pdf)
 
