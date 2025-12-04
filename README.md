@@ -10,7 +10,7 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 ## Order of Events
 
 12:30 p.m. 33rd Old Blues' Race (4 miles)
-(All alumni welcome)
+(Mob Match)
 
 2:00 p.m. 134th Gentlemen's Race (7½ miles)
 (Eight-a-side, six-to-score)
@@ -18,9 +18,9 @@ Memorial Playing Fields, Roehampton Vale, SW15 3PQ.
 3.00 p.m. 49th Ladies' Race (4 miles)
 (Eight-a-side, six-to-score)
 
-## [Programme](/2024-VXCProgramme-07Dec24.pdf)
+## [Programme](/2025-VXCProgramme-06Dec25.pdf)
 
-The programme for the 2024 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event. The 2025 programme will be added in the week before the race.
+The programme for the 2025 races can be found at the link above. It contains event details including start-lists, a race preiew and a statistical history of the event.
 
 ## [Course Map](/TH&H-VarsityCourse-2024-date.png)
 
